@@ -1,7 +1,7 @@
 #outros
 
 ## Síntese
-Myr são cristais de [[magia]], fonte de energia de grande parte das tecnologias de [[Kaerum]].
+Myr são cristais de [[Magia]], fonte de energia de grande parte das tecnologias de [[Kaerum]].
 ## Descrição
 
 Mys é um cristal claro de magia concentrada.

@@ -1,20 +1,35 @@
-#perigo
+#outros
+
 ## Síntese
+Antimagia é um fenomeno não muito bem compreendido que absorve efeitos [[Magia|magicos]], pode ser manifesto em um liquido expresso conhecido como [[Lodo]]. Antimagia é algo natural, e talvez, possa absorver outras coisas sem ser magia.
+## Descrição
 
-Fuligem é uma doença que afeta muito das pessoas mais pobres de [[Kaerum]]. 
-A [[Familia Flusse]] parece ter interesse em usar isso como uma arma biologica.
-## Sendo Infectado
+Placeholder  
+## História
 
-Geralmente resultado de contato com [[Myr]] e seus residuos.
+Placeholder  
+## Origem
 
-## Efeitos
+Placeholder  
+## Queda
 
-Acinzentamento das extremidades do corpo, em condições extremas o infectado pode vir a se tornar uma [[Fuligem Viva]].
+Placeholder  
+## Proponentes
 
-## Prevenção e Recuperação
+Placeholder  
+## Detratores
 
-Não há cura conhecida, porém diversos grupos possuem interesse nesta possivel cura, como a [[Familia Flusse]] e o [[Ultimo Vagão]].
-O [[Laboratorio da Lena]] parece ser onde são feitas diversas pesquisas sobre a doença, tambem são feitas no [[Laboratorio Flusse †]].
+Placeholder  
+## Contrapartes
+
+Placeholder  
+## Oposição
+
+Placeholder  
+## Plano de Fundo
+
+Placeholder  
+## Detalhes Adicionais
 
 > [!quote]- Citação
 > **Informações Iniciais da Análise da [[Fuligem]] e da [[Antimagia|Anti-Magia]]:**

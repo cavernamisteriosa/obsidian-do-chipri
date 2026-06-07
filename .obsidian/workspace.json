@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoas/Piratas Aereos/Piratas Aereos.md",
+                "file": "Outros/Elementos/Antimagia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Piratas Aereos"
+              "title": "Antimagia"
             }
           },
           {
@@ -59,8 +59,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eleme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -345,35 +344,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8044563f7272328d",
+  "active": "be9bfdaa44df7ae9",
   "lastOpenFiles": [
-    "Eventos/Invasão do Laboratorio Flusse.md",
+    "Perigos/Fuligem.md",
+    "Outros/Elementos/Antimagia.md",
+    "Outros/Briguinite.md",
+    "Outros/Elementos/Magia.md",
     "Eventos/Eventos.md",
+    "Outros/Elementos/Elementos.md",
+    "Outros/Elementos",
+    "Outros/Fuligem Viva.md",
+    "Pessoas/Piratas Aereos/Piratas Aereos.md",
+    "Eventos/Invasão do Laboratorio Flusse.md",
     "Eventos/A Sizígia.md",
     "Eventos/Conferencia do Marechal.md",
     "Eventos/Levantar de Kaerum.md",
     "Eventos/Segunda Guerra.md",
     "Eventos/Fuga da Prisão de Kaerum.md",
-    "Outros/Magia.md",
-    "Elementos.md",
-    "Outros/Antimagia.md",
-    "Outros/Terceiro Elemento.md",
+    "Outros/Elementos/Terceiro Elemento.md",
     "Pessoas/Piratas Aereos/Malakar.md",
     "Pessoas/Piratas Aereos/Renevoir.md",
     "Pessoas/Piratas Aereos/Sapato.md",
     "Pessoas/Piratas Aereos/Velis.md",
     "Pessoas/Piratas Aereos/Furão Tatu.md",
     "Eventos/A luta contra o B0b5.md",
-    "Pessoas/Piratas Aereos/Piratas Aereos.md",
     "Pessoas/Piratas Aereos/Owen.md",
     "Outros/Raças/Orc.md",
     "Outros/Raças",
     "Outros/Raças/Draconatos.md",
     "Pessoas/Party/Grupo da Tarde/Lena.md",
     "Pessoas/Party/Grupo da Tarde/Bartholomew Fatima.md",
-    "Pessoas/Party/Grupo da Tarde/Larriel Belier.md",
-    "Pessoas/Governo de Kaerum/Cientista Federal/Magnus.md",
-    "Pessoas/Governo de Kaerum/Exército de Kaerum/Divisão 45 †/Jamon Belier.md",
     "Pessoas/Governo de Kaerum/Exército de Kaerum/Divisão 45 †",
     "Pessoas/Governo de Kaerum/Exército de Kaerum",
     "Locais/Kaerum/Cidade Alta/Mansão Flusse †",
@@ -381,7 +381,6 @@
     "Pessoas/Prisioneiros d'O Núcleo",
     "Outros/Arma Biologica",
     "Locais/Tahlora",
-    "Pessoas/Circo Vagalume †",
-    "Pessoas/Governo de Kaerum/Familia Highlen"
+    "Pessoas/Circo Vagalume †"
   ]
 }

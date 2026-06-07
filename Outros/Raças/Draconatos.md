@@ -1,7 +1,7 @@
 #outros
 
 ## Síntese
-Ninguem nasce draconato, draconato é uma transformação de [[magia]] selvagem.
+Ninguem nasce draconato, draconato é uma transformação de [[Magia]] selvagem.
 ## Descrição
 
 Placeholder  
