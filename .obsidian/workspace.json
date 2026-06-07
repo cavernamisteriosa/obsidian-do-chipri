@@ -41,25 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outros/Briguinite.md",
+                "file": "Eventos/Eventos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Briguinite"
+              "title": "Eventos"
             }
           },
           {
             "id": "a054d72c00e4d83a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Pessoas/Prisioneiros d'O Núcleo/Hector.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hector"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -344,13 +349,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "be9bfdaa44df7ae9",
+  "active": "51a316cb4f69f755",
   "lastOpenFiles": [
-    "Perigos/Fuligem.md",
-    "Outros/Elementos/Antimagia.md",
-    "Outros/Briguinite.md",
-    "Outros/Elementos/Magia.md",
+    "Pessoas/Prisioneiros d'O Núcleo/Rowen.md",
+    "Pessoas/Prisioneiros d'O Núcleo/Hector.md",
+    "Locais/Kaerum/O Núcleo/O Núcleo.md",
+    "Outros/Arma Biologica/5bw45.md",
     "Eventos/Eventos.md",
+    "Outros/Briguinite.md",
+    "Outros/Elementos/Antimagia.md",
+    "Perigos/Fuligem.md",
+    "Outros/Elementos/Magia.md",
     "Outros/Elementos/Elementos.md",
     "Outros/Elementos",
     "Outros/Fuligem Viva.md",
@@ -369,11 +378,7 @@
     "Pessoas/Piratas Aereos/Furão Tatu.md",
     "Eventos/A luta contra o B0b5.md",
     "Pessoas/Piratas Aereos/Owen.md",
-    "Outros/Raças/Orc.md",
     "Outros/Raças",
-    "Outros/Raças/Draconatos.md",
-    "Pessoas/Party/Grupo da Tarde/Lena.md",
-    "Pessoas/Party/Grupo da Tarde/Bartholomew Fatima.md",
     "Pessoas/Governo de Kaerum/Exército de Kaerum/Divisão 45 †",
     "Pessoas/Governo de Kaerum/Exército de Kaerum",
     "Locais/Kaerum/Cidade Alta/Mansão Flusse †",
