@@ -1,0 +1,387 @@
+{
+  "main": {
+    "id": "0ba9a15158ab6df7",
+    "type": "split",
+    "children": [
+      {
+        "id": "770adc0b5cee674f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be9bfdaa44df7ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pessoas/Piratas Aereos/Piratas Aereos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Piratas Aereos"
+            }
+          },
+          {
+            "id": "5311c11352868140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eventos/Eventos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eventos"
+            }
+          },
+          {
+            "id": "8044563f7272328d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outros/Briguinite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Briguinite"
+            }
+          },
+          {
+            "id": "a054d72c00e4d83a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3371f4960fd393c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d30775ad8a1d624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51a316cb4f69f755",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f6a5b828e2c5f302",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9e194b141133b65",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bbcbd01f58009eb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa4a42cf0eb1e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2752f31b9c5e387",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "90120fe2b8e3d143",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "15b1c2d1b1960184",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2e5aca28d821019e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d9104023ae50b754",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "5ac598abfdad84ce",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "9e796a92850ef883",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "d25d7d25ad5efb13",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tenki"
+            }
+          },
+          {
+            "id": "0602acb0478896bf",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "176bb9214b59ca2d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "d723251eea6eeffa",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tenki"
+            }
+          },
+          {
+            "id": "fefcd84821cc0001",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "eee6a072c2f10f2e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "a41388c26b968601",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {},
+              "icon": "sun",
+              "title": "Tenki"
+            }
+          }
+        ],
+        "currentTab": 13
+      },
+      {
+        "id": "8299e785a413d55b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46a5bc5b6cd47a8a",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "relations:Open Relations graph": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "ttrpg-soundboard:Open soundboard": false,
+      "templater-obsidian:Templater": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "8044563f7272328d",
+  "lastOpenFiles": [
+    "Eventos/Invasão do Laboratorio Flusse.md",
+    "Eventos/Eventos.md",
+    "Eventos/A Sizígia.md",
+    "Eventos/Conferencia do Marechal.md",
+    "Eventos/Levantar de Kaerum.md",
+    "Eventos/Segunda Guerra.md",
+    "Eventos/Fuga da Prisão de Kaerum.md",
+    "Outros/Magia.md",
+    "Elementos.md",
+    "Outros/Antimagia.md",
+    "Outros/Terceiro Elemento.md",
+    "Pessoas/Piratas Aereos/Malakar.md",
+    "Pessoas/Piratas Aereos/Renevoir.md",
+    "Pessoas/Piratas Aereos/Sapato.md",
+    "Pessoas/Piratas Aereos/Velis.md",
+    "Pessoas/Piratas Aereos/Furão Tatu.md",
+    "Eventos/A luta contra o B0b5.md",
+    "Pessoas/Piratas Aereos/Piratas Aereos.md",
+    "Pessoas/Piratas Aereos/Owen.md",
+    "Outros/Raças/Orc.md",
+    "Outros/Raças",
+    "Outros/Raças/Draconatos.md",
+    "Pessoas/Party/Grupo da Tarde/Lena.md",
+    "Pessoas/Party/Grupo da Tarde/Bartholomew Fatima.md",
+    "Pessoas/Party/Grupo da Tarde/Larriel Belier.md",
+    "Pessoas/Governo de Kaerum/Cientista Federal/Magnus.md",
+    "Pessoas/Governo de Kaerum/Exército de Kaerum/Divisão 45 †/Jamon Belier.md",
+    "Pessoas/Governo de Kaerum/Exército de Kaerum/Divisão 45 †",
+    "Pessoas/Governo de Kaerum/Exército de Kaerum",
+    "Locais/Kaerum/Cidade Alta/Mansão Flusse †",
+    "Locais/Kaerum/O Núcleo",
+    "Pessoas/Prisioneiros d'O Núcleo",
+    "Outros/Arma Biologica",
+    "Locais/Tahlora",
+    "Pessoas/Circo Vagalume †",
+    "Pessoas/Governo de Kaerum/Familia Highlen"
+  ]
+}

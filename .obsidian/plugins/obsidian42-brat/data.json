@@ -1,0 +1,59 @@
+{
+  "pluginList": [
+    "Jareika/zoom-map",
+    "modality/obsidian-text-mapper",
+    "Jareika/TTRPG-Tools-Publish",
+    "Jareika/obsidian-ttrpg-soundboard",
+    "Jareika/Simple-Timeline",
+    "hay-kot/obsidian-dnd-ui-toolkit",
+    "MostTornBrain/monster-mash",
+    "Obsidian-TTRPG-Community/Relations"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Jareika/zoom-map",
+      "version": "latest"
+    },
+    {
+      "repo": "modality/obsidian-text-mapper",
+      "version": "latest"
+    },
+    {
+      "repo": "Jareika/TTRPG-Tools-Publish",
+      "version": "latest"
+    },
+    {
+      "repo": "Jareika/obsidian-ttrpg-soundboard",
+      "version": "latest"
+    },
+    {
+      "repo": "Jareika/Simple-Timeline",
+      "version": ""
+    },
+    {
+      "repo": "hay-kot/obsidian-dnd-ui-toolkit",
+      "version": "latest"
+    },
+    {
+      "repo": "MostTornBrain/monster-mash",
+      "version": "latest"
+    },
+    {
+      "repo": "Obsidian-TTRPG-Community/Relations",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}

@@ -1,0 +1,4 @@
+#grupo
+## Síntese
+
+Placeholder

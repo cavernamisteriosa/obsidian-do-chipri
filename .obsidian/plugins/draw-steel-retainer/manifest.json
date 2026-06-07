@@ -1,0 +1,11 @@
+{
+	"id": "draw-steel-retainer",
+	"name": "Draw Steel Retainer",
+	"version": "1.0.19",
+	"minAppVersion": "0.15.0",
+	"description": "Provides Director facing sidebar tools for the TTRPG Draw Steel",
+	"author": "Herotek",
+	"authorUrl": "https://github.com/MartinDampier",
+	"fundingUrl": "https://ko-fi.com/herotek",
+	"isDesktopOnly": true
+}

@@ -1,0 +1,3 @@
+#equipamento
+## Síntese
+Placeholder

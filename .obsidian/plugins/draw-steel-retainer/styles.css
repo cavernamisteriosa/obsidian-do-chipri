@@ -1,0 +1,281 @@
+.green {
+    background-color: var(--color-green);
+}
+.red {
+    background-color: var(--color-red);
+}
+.orange{
+    background-color: var(--color-orange);
+}
+
+.hideStyle{
+    display: none;
+}
+.thirdWidth{
+    width: 33%;
+}
+.ninetyPercentWidth{
+    width: 90%;
+}
+.eightyPercentWidth{
+    width: 80%;
+}
+.twentyPercentWidth{
+    width: 20%;
+}
+.tenPercentWidth{
+    width: 10%;
+}
+.maxThirdWidth{
+    max-width: 33%;
+}
+.height25{
+    height: 25px;
+}
+
+.noPaddingNoMargin{
+    padding: 0px;
+    margin: 0px;
+}
+
+.fiveTopAndBottomMargin{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.minthirdWidth{
+    min-width: 33%;
+}
+.max50Width{
+    width: 50px;
+}
+.max60Width{
+    width: 60px;
+}
+.fullWidth{
+    width: 100%;
+}
+.tableHeaderHeight {
+    height: 30px;
+    display: flex;
+}
+.flex{
+    display: flex;
+}
+.contents{
+    display: contents;
+}
+.centerText {
+    text-align: center;
+}
+.rowHeight {
+    height: 70px;
+}
+
+.condition-buttons {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.tableStyle {
+    display: table;
+    width: 100%;
+}
+.tableRowStyle{
+    display: table-row;
+}
+.flex {
+    display: flex;
+}
+.tableCell {
+    display: table-cell;
+}
+.adjustInitiativeHeaderButton{
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.roundHeader {
+    width: 50%;
+    display: table-cell;
+}
+
+.villainsButton {
+    margin-left: 5px;
+}
+
+.maliceHeader {
+    width: 50%;
+    display: table-cell;
+}
+
+.activatedButton {
+    color: var(--interactive-accent);
+    font-weight: bold;
+}
+.renameButton {
+    width: 20px;
+}
+.fontFifteen {
+    font-size: 15px;
+}
+   
+.Centered{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.fill{
+    height: 90%;
+    width: 90%;
+}
+.fullFill{
+    height: 90%;
+    width: 90%;
+}
+
+.padded-input {
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.rightAlign {
+    margin-left: auto;
+    margin-right: 0px;
+    text-align: right;
+}
+.leftAlign {
+    margin-left: 0px;
+    margin-right: auto;
+    text-align: left;
+}
+
+.bottomSpace {
+    margin-bottom: 5px;
+}
+
+.headerButtonLeft {
+    margin-left: 5px;
+    margin-right: 1px;
+}
+.headerButtonRight {
+    margin-left: 1px;
+    margin-right: 5px;
+}
+
+.interactiveColor {
+    background-color: var(--interactive-normal);
+    box-shadow: var(--input-shadow);
+}
+
+.padded {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+    width: 90%;
+}
+
+.stamina-Cell {
+    width:  20%;
+}
+
+.fullScreen {
+    width: 100%;
+}
+
+.heroes {
+    border: 2px solid var(--color-green);
+}
+.group {
+    border: 2px solid var(--color-base-100);
+    border-radius: 10px;
+    min-height: 100px;
+}
+.groupHeader {
+    height: 30px;
+}
+.p-left-5{
+    padding-left: 5px;
+}
+.villains {
+    border: 2px solid var(--color-red);
+}
+
+.trackerTableStyle{
+    border-radius: 10px;
+    padding: 5px;
+    width: 100%;
+    min-height: 100px;
+}
+.trackerTableCellStyle {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+.trackerTableNameCellStyle {
+    border: 1px solid;
+    border-collapse: collapse;
+    border-bottom-left-radius: 10px;
+    padding: 0px 0px 0px 5px;
+}
+.trackerTableRemoveCellStyle {
+    border: 1px solid;
+    border-collapse: collapse;
+    border-bottom-right-radius: 10px;
+}
+.leftPaddingFive{
+    padding: 0px 0px 0px 5px;
+}
+.trackerCellButtonStyle {
+    color: var(--color-base-00);
+    background-color: transparent;
+    font-weight: bolder;
+    width: 100%;
+}
+.tenRadiusTopLeft{
+    border-top-left-radius: 10px;
+}
+.tenRadiusTopRight{
+    border-top-right-radius: 10px;
+}
+.trackerRowTableStyle {
+    margin-top: 5px;
+    border-spacing: 0px;
+}
+.trackerCellButtonFullHeight{
+    height: 55px;
+}
+.trackerCellButtonHalfHeight{
+    height: 22.5px;
+}
+.trackerCellRemoveButtonStyle {
+    text-align: center;
+    height: 55px;
+    color: var(--color-red);
+    margin-bottom: -20px;
+}
+
+.name-Cell {
+    width: 400px;
+}
+
+.verticalType {
+    transform: translate(-8%) rotate(-90deg) translate(-14px) ;
+    margin-left: -18px;
+    width: 57px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.slimButton{
+    margin: 1px;
+    padding: 10px, 0px, 0px, 0px;
+    width: 18px;
+    height: 18px;
+    background-color: transparent;
+}
